@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Trang-1" id="uezr8KcE8dsTYu1dYWs3">
+    <mxGraphModel dx="1030" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CPOMXkS4rrJB3RPNIODJ-2" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Student" vertex="1">
+          <mxGeometry height="190" width="200" x="420" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="CPOMXkS4rrJB3RPNIODJ-3" parent="CPOMXkS4rrJB3RPNIODJ-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- studentID : String&lt;div&gt;- fullName : String&lt;/div&gt;&lt;div&gt;- dateOfBirth : date&lt;/div&gt;&lt;div&gt;- email : String&lt;/div&gt;&lt;div&gt;- phoneNumber : String&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CPOMXkS4rrJB3RPNIODJ-4" parent="CPOMXkS4rrJB3RPNIODJ-2" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="200" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CPOMXkS4rrJB3RPNIODJ-5" parent="CPOMXkS4rrJB3RPNIODJ-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ registerCourses() : void&lt;div&gt;+ viewScores() : void&lt;/div&gt;&lt;div&gt;+ updateInfor() : void&lt;/div&gt;" vertex="1">
+          <mxGeometry height="62" width="200" y="128" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
